@@ -1,2 +1,2 @@
 # Omics_Education_Hub
-## A Bioinformatic Repository
+## A Bioinformatic-Omic Repository
